@@ -2,6 +2,20 @@
 
 A smart contract built on the Soroban platform that facilitates token pair trading between a single seller and multiple buyers.
 
+## Contract
+
+ℹ️  Skipping install because wasm already installed
+ℹ️  Using wasm hash 84571eb25a7fd4c3d1916d92044b7a50ea04f98b5d80624bedfc09d86bb50483
+ℹ️  Simulating deploy transaction…
+ℹ️  Transaction hash is eba1bb2a3517c8d09e6bb97199c809d0c542242c99fbee63dc4cfe3c9202bf11
+🔗 https://stellar.expert/explorer/testnet/tx/eba1bb2a3517c8d09e6bb97199c809d0c542242c99fbee63dc4cfe3c9202bf11
+ℹ️  Signing transaction: eba1bb2a3517c8d09e6bb97199c809d0c542242c99fbee63dc4cfe3c9202bf11
+🌎 Submitting deploy transaction…
+🔗 https://stellar.expert/explorer/testnet/contract/CBTZ34PLRVBVTVA6BYYOQF4KBDSOVSWTI34DQHY6S6IWDYKXRTWPFUQV
+✅ Deployed!
+CBTZ34PLRVBVTVA6BYYOQF4KBDSOVSWTI34DQHY6S6IWDYKXRTWPFUQV
+
+
 ## Overview
 
 This contract implements a simple yet effective token exchange mechanism where a seller can create an offer to exchange one token for another at a specified price ratio. Multiple buyers can then trade with this offer without the need for order matching or complex exchange logic.
